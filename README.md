@@ -8,9 +8,9 @@ The models correspond to three configurations of the IEEE39-bus power system:
 * An inertia-reduced system, including wind power plants and Battery Energy Storage Systems(BESS), noted as Config. III
 
 ## Files
-* Dynamic model for Configuration I
-* Dynamic model for Configuration II
-* Dymamic model for Configuration III
+* [Dynamic model for Configuration I](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configI.zip)
+* [Dynamic model for Configuration II](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configII.zip)
+* [Dymamic model for Configuration III](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configIII.zip)
 
 
 

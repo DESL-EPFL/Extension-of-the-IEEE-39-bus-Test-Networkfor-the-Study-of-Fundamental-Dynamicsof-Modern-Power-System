@@ -1,4 +1,4 @@
-# Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System
+# Extension-of-the-IEEE-39-bus-Test-Network-for-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System
 Details for the provided models are presented in the report. 
 
 ## Files

@@ -1,13 +1,15 @@
 # Extension-of-the-IEEE-39-bus-Test-Network-for-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System
-
-In the report, we detaily describe three versions of full-replica dynamic models of the IEEE 39-bus power systems, to be used as a benchmark for studying the fundamental dynamics of modern power systems inthe presence of inverter-connected devices.
+We provide three versions of full-replica dynamic models of the IEEE 39-bus power systems, to be used as a benchmark for studying the fundamental dynamics of modern power systems inthe presence of inverter-connected devices.
 The models correspond to three configurations of the IEEE39-bus power system:
 
 * The original 10-synchronous machine system, noted as Config. I
 * An inertia-reduced system, including wind power plants, noted as Config. II
 * An inertia-reduced system, including wind power plants and Battery Energy Storage Systems(BESS), noted as Config. III
 
+Along with the provided dynamic models, we also uploaded a report where the dynamic models and the corresponding simulation results are presented in very details.
+
 ## Files
+* Report 
 * [Dynamic model for Configuration I](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configI.zip)
 * [Dynamic model for Configuration II](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configII.zip)
 * [Dymamic model for Configuration III](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configIII.zip)

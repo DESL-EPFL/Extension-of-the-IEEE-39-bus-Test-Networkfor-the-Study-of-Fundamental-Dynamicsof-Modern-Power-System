@@ -10,9 +10,9 @@ Along with the provided dynamic models, we also uploaded a report where the dyna
 
 ## Files
 * Report 
-* [Dynamic model for Configuration I](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configI.zip)
-* [Dynamic model for Configuration II](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configII.zip)
-* [Dymamic model for Configuration III](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configIII.zip)
+* [Dynamic model for Config. I](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configI.zip)
+* [Dynamic model for Config. II](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configII.zip)
+* [Dymamic model for Config. III](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configIII.zip)
 
 
 

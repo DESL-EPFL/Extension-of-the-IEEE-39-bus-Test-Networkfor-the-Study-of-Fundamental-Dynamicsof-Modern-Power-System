@@ -1,12 +1,12 @@
-# Extension-of-the-IEEE-39-bus-Test-Network-for-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System
-We provide three versions of full-replica dynamic models of the IEEE 39-bus power systems, to be used as a benchmark for studying the fundamental dynamics of modern power systems inthe presence of inverter-connected devices.
-The models correspond to three configurations of the IEEE39-bus power system:
+# Extension of the IEEE 39-bus Test Network for the Study of Fundamental Dynamics of Modern Power System
+We provide the full-replica dynamic models of three versions of the IEEE 39-bus power systems, to be used as a benchmark for studying the fundamental dynamics of modern power systems in the presence of inverter-connected devices.
+The models correspond to three configurations of the IEEE 39-bus power system:
 
 * The original 10-synchronous machine system, noted as Config. I
 * An inertia-reduced system, including wind power plants, noted as Config. II
-* An inertia-reduced system, including wind power plants and Battery Energy Storage Systems(BESS), noted as Config. III
+* An inertia-reduced system, including wind power plants and Battery Energy Storage Systems (BESS), noted as Config. III
 
-Along with the provided dynamic models, we also uploaded a report where the dynamic models and the corresponding simulation results are presented in very details.
+Along with the provided dynamic models, we also upload a report where the dynamic models and the corresponding simulation results are presented in details.
 
 ## Files
 * Report 
@@ -17,7 +17,8 @@ Along with the provided dynamic models, we also uploaded a report where the dyna
 
 
 ## Real-time simulator 
-We use the Opal-RT real-time digital simulator OP5600, coupled with the eMEGAsim PowerGrid running on the RT-LAB real-time simulation platform. For installation, user guide and more information of the real-time simulator go [here](https://www.opal-rt.com/).
+We use the Opal-RT real-time digital simulator OP5600, coupled with the eMEGAsim PowerGrid running on the RT-LAB real-time simulation platform. For installation, user guide and more information on the real-time simulator go [here](https://www.opal-rt.com/).
+
 ## Software 
 The following software is required to run the model:
 * MATLAB Version 8.5.1 (R2015aSP1)   

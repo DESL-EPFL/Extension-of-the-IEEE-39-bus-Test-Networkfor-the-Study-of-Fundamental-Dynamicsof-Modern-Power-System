@@ -1,18 +1,21 @@
 # Extension of the IEEE 39-bus Test Network for the Study of Fundamental Dynamics of Modern Power System
-We provide the full-replica dynamic models of three versions of the IEEE 39-bus power systems, to be used as a benchmark for studying the fundamental dynamics of modern power systems in the presence of inverter-connected devices.
-The models correspond to three configurations of the IEEE 39-bus power system:
+We provide the full-replica dynamic models of three versions of the IEEE 39-bus power systems, to be used as a benchmark for studying the fundamental dynamics of modern power systems in the presence of inverter-connected devices. 
 
-* The original 10-synchronous machine system, noted as Config. I
-* An inertia-reduced system, including wind power plants, noted as Config. II
-* An inertia-reduced system, including wind power plants and Battery Energy Storage Systems (BESS), noted as Config. III
+The up-to-date 4 models correspond to three configurations of the IEEE 39-bus power system with different amount of inertia:
+
+* The original 10-synchronous machine system, noted as Config. I [topology](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/modifiedgrid10SG.pdf)
+* A low-inertia system, 4 synchronous machines are replaced by 4 type-4 wind power plants, noted as Config. II [topology](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/modified6SGs4WPs.pdf)
+* Config. II implemented a Battery Energy Storage Systems (BESS) that integrated into the power grid through a Voltage Source Converter (VSC), noted as Config. II_BESS_VSC [topology](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/modifiedgrid4wf6SG1bess.pdf)
+* A very low-inertia system, 6 synchronous machines are replaced by 6 type-4 wind power plants, noted as Config. III [topology](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/modified4SGs6WPs.pdf)
 
 Along with the provided dynamic models, we also upload a report where the dynamic models and the corresponding simulation results are presented in details.
 
 ## Files
 * [Report](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/Report.pdf) 
-* [Dynamic model for Config. I](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configI.zip)
-* [Dynamic model for Config. II](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configII.zip)
-* [Dymamic model for Config. III](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_configIII.zip)
+* [Dynamic model for Config. I](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39bus_ConfigI.zip)
+* [Dynamic model for Config. II](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39bus_ConfigII.zip)
+* [Dynamic model for Config. II_BESS_VSC](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39bus_ConfigII_BESS_VSC.zip)
+* [Dymamic model for Config. III](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39bus_ConfigIII.zip)
 * [Dynamic load model library](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_dynload_lib.mdl.zip)
 
 

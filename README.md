@@ -17,7 +17,7 @@ Along with the provided dynamic models, we also upload a report where the dynami
 * [Dynamic model for Config. II_BESS_CSC](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39bus_ConfigII_BESS_CSC.zip)
 * [Dymamic model for Config. III](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39bus_ConfigIII.zip)
 * [Dynamic load model library](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/IEEE_39Bus_dynload_lib.mdl.zip)
-* [Forcast](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/Forecast.zip)
+* [Forecast](https://github.com/DESL-EPFL/Extension-of-the-IEEE-39-bus-Test-Networkfor-the-Study-of-Fundamental-Dynamicsof-Modern-Power-System/blob/master/Forecast.zip)
 
 ## Simulation notes
 * It is recommend to use Phasor Measurement Unit ( PMU) to measure phasor, frequency and ROCOF. In another project [CS-TFM PMU model](https://github.com/DESL-EPFL/CS-TFM-PMU-Model.git), we provide the PMU models that relie on Compressive Sensing Taylor-Fourier Model (CS-TFM) approach

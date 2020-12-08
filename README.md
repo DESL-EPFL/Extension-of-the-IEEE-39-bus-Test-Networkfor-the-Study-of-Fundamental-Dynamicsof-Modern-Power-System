@@ -36,8 +36,9 @@ The following software is required to run the model:
 
 ## References 
 For a more detailed description of this full-replica IEEE 39-bus system model, refer to the following references:
-* Yihui Zuo, Fabrizio Sossan, Mokhtar Bozorg, Mario Paolone, “Dispatch and Primary Frequency Control with Electrochemical Storage: a System-wise Verification,” IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), 2018. Available [here](https://ieeexplore.ieee.org/document/8571832).
+* Yihui Zuo, Mario Paolone, Fabrizio Sossan, Effect of voltage source converters with electrochemical storage systems on dynamics of reduced-inertia bulk power grids, Electric Power Systems Research, Volume 189, 2020. Available [here](https://doi.org/10.1016/j.epsr.2020.106766)
 * Yihui Zuo, Guglielmo Frigo, Asja Derviškadić and Mario Paolone, "Impact of Synchrophasor Estimation Algorithms in ROCOF-based Under-Frequency Load-Shedding," in IEEE Transactions on Power Systems. Available [here](https://ieeexplore.ieee.org/document/8807346).
+* Yihui Zuo, Fabrizio Sossan, Mokhtar Bozorg, Mario Paolone, “Dispatch and Primary Frequency Control with Electrochemical Storage: a System-wise Verification,” IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), 2018. Available [here](https://ieeexplore.ieee.org/document/8571832).
 * Asja Derviškadić, Yihui Zuo, Guglielmo Frigo, Mario Paolone, “Under Frequency Load Shedding based on PMU Estimates of Frequency and ROCOF,” IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), 2018. Available [here](https://ieeexplore.ieee.org/document/8571481).
 * Guglielmo Frigo, Asja Derviškadić, Yihui Zuo and Mario Paolone, "PMU-Based ROCOF Measurements: Uncertainty Limits and Metrological Significance in Power System Applications," in IEEE Transactions on Instrumentation and Measurement. Available [here](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8675542&isnumber=4407674).
 
